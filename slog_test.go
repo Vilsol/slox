@@ -49,10 +49,10 @@ func TestAll(t *testing.T) {
 }
 
 func TestNoContext(t *testing.T) {
-	logger := From(nil)
+	logger := From(nil) //nolint:staticcheck
 	testza.AssertNotNil(t, logger)
 
-	ctx := Into(nil, logger)
+	ctx := Into(nil, logger) //nolint:staticcheck
 	testza.AssertNotNil(t, ctx)
 }
 
