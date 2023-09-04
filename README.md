@@ -2,7 +2,7 @@
 
 [![push](https://github.com/Vilsol/slox/actions/workflows/push.yml/badge.svg)](https://github.com/Vilsol/slox/actions/workflows/push.yml)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vilsol/slox)
-[![codecov](https://codecov.io/gh/Vilsol/slox/branch/master/graph/badge.svg?token=LFNKYWS0N2)](https://codecov.io/gh/Vilsol/slox)
+[![codecov](https://codecov.io/gh/Vilsol/slox/graph/badge.svg?token=633UR1LGRC)](https://codecov.io/gh/Vilsol/slox)
 [![CodeFactor](https://www.codefactor.io/repository/github/vilsol/slox/badge)](https://www.codefactor.io/repository/github/vilsol/slox)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/vilsol/slox)
 [![Go Reference](https://pkg.go.dev/badge/github.com/Vilsol/slox.svg)](https://pkg.go.dev/github.com/Vilsol/slox)
